@@ -55,6 +55,15 @@
 			"valid_for": [
 				"ctf_halloflife_a1"
 			]
+		},
+		{
+			"navmesh": "nav/ctf_trains_b2.nav",
+			"version": "1.0.0.0",
+			"author": "Orvid King",
+			"features": ["sniper_spot"],
+			"valid_for": [
+				"ctf_trains_b2"
+			]
 		}
 	]
 }
