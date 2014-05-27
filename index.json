@@ -1,0 +1,60 @@
+{
+	"last_modified": "27 May 2014 17:17:57 GMT",
+	"navigation_meshes": [
+		{
+			"navmesh": "nav/cp_god_orange_run_rc2.nav",
+			"version": "1.0.0.0",
+			"author": "Orvid King",
+			"features": ["sentry_spot"],
+			"valid_for": [
+				"cp_god_orange_run_rc2"
+			]
+		},
+		{
+			"navmesh": "nav/cp_green_critfest_v2.nav",
+			"version": "1.0.0.0",
+			"author": "Orvid King",
+			"features": ["sentry_spot"],
+			"valid_for": [
+				"cp_green_critfest_v2"
+			]
+		},
+		{
+			"navmesh": "nav/cp_mobius_v1.nav",
+			"version": "1.0.0.0",
+			"author": "Orvid King",
+			"features": [],
+			"valid_for": [
+				"cp_mobius_beta",
+				"cp_mobius_v1"
+			]
+		},
+		{
+			"navmesh": "nav/cp_simple_grey_docb2.nav",
+			"version": "1.0.0.0",
+			"author": "Orvid King",
+			"features": [],
+			"valid_for": [
+				"cp_simple_grey_docb2"
+			]
+		},
+		{
+			"navmesh": "nav/cp_twin_towers.nav",
+			"version": "1.0.0.0",
+			"author": "Orvid King",
+			"features": [],
+			"valid_for": [
+				"cp_twin_towers"
+			]
+		},
+		{
+			"navmesh": "nav/ctf_halloflife_a1.nav",
+			"version": "1.0.0.0",
+			"author": "Orvid King",
+			"features": ["sentry_spot", "sniper_spot"],
+			"valid_for": [
+				"ctf_halloflife_a1"
+			]
+		}
+	]
+}
