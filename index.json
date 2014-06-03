@@ -64,6 +64,15 @@
 			"valid_for": [
 				"ctf_trains_b2"
 			]
+		},
+		{
+			"navmesh": "nav/cp_orange2_alpha1.nav",
+			"version": "1.0.0.0",
+			"author": "Orvid King",
+			"features": [],
+			"valid_for": [
+				"cp_orange2_alpha1"
+			]
 		}
 	]
 }
