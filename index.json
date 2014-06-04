@@ -73,6 +73,15 @@
 			"valid_for": [
 				"cp_orange2_alpha1"
 			]
+		},
+		{
+			"navmesh": "nav/cp_orangebunker_tbrv3.nav",
+			"version": "1.0.0.0",
+			"author": "Orvid King",
+			"features": ["sentry_spot"],
+			"valid_for": [
+				"cp_orangebunker_tbrv3"
+			]
 		}
 	]
 }
