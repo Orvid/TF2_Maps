@@ -82,6 +82,16 @@
 			"valid_for": [
 				"cp_orangebunker_tbrv3"
 			]
+		},
+		{
+			"navmesh": "nav/cp_bighalls_b1_o1.nav",
+			"version": "1.0.0.0",
+			"author": "Orvid King",
+			"features": ["sniper_spot"],
+			"valid_for": [
+				"cp_bighalls_b1",
+				"cp_bighalls_b1_o1"
+			]
 		}
 	]
 }
