@@ -1,0 +1,6 @@
+ResupplyCabinet.vmf:
+	$team = 
+		0 - Any Team
+		2 - Red
+		3 - Blue
+

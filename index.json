@@ -92,6 +92,15 @@
 				"cp_bighalls_b1",
 				"cp_bighalls_b1_o1"
 			]
+		},
+		{
+			"navmesh": "nav/cp_grey_x0.nav",
+			"version": "1.0.0.0",
+			"author": "Orvid King",
+			"features": ["sniper_spot"],
+			"valid_for": [
+				"cp_grey_x0"
+			]
 		}
 	]
 }
