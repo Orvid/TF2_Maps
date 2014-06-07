@@ -101,6 +101,15 @@
 			"valid_for": [
 				"cp_grey_x0"
 			]
+		},
+		{
+			"navmesh": "nav/cp_purple_x_mirror.nav",
+			"version": "1.0.0.0",
+			"author": "Orvid King",
+			"features": [],
+			"valid_for": [
+				"cp_purple_x_mirror"
+			]
 		}
 	]
 }
