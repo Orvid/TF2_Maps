@@ -95,7 +95,7 @@
 		},
 		{
 			"navmesh": "nav/cp_grey_x0.nav",
-			"version": "1.0.0.0",
+			"version": "1.0.0.1",
 			"author": "Orvid King",
 			"features": ["sniper_spot"],
 			"valid_for": [
